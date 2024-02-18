@@ -1,2 +1,2 @@
 # Caso-de-Estudio_Diseno-y-Creacion-de-una-Aplicaci-n-de-Terminal-Interactiva-con-Python
-Se crea una aplicación de terminal para el seguimiento de gastos personales.
+Se crea una aplicación de terminal para el seguimiento de gastos personales.Los usuarios deben poder registrar sus ingresos y gastos, listar los gastos ordenados por fecha y generar un balance que contenga el total de los gastos, el total de ingresos, la capacidad de ahorro (diferencia entre ingresos totales y gastos totales).
